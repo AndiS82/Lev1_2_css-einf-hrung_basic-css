@@ -1,0 +1,14 @@
+h2 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 35px;
+    color: green;
+}
+
+h3 {
+    font-size: 40px;
+    color: grey;
+    background-color: lightgrey;
+}
